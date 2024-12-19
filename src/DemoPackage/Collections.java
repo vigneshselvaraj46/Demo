@@ -33,7 +33,9 @@ public class Collections {
            System.out.println( it.next());
        }
       
-      
+       System.out.println("hello Vignesh");
+       System.out.println("hello Vijay");
+
        
        
        
